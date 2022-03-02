@@ -19,10 +19,10 @@
 <img src="./img/8.png"/>
 
 ## 2. Ingresa a cada directorio y crear un archivo a través de consola, este archivo debe contener la siguiente informacion `(cd nombrecarpeta)` por donde queremos navegar :
-<b>Nombre:...</b></br>
-<b>Apellido:...</b></br>
-<b>Estatura:...</b></br>
-<b>RH:...</b></br>
+<b>Nombre: ...</b></br>
+<b>Apellido: ...</b></br>
+<b>Estatura: ...</b></br>
+<b>RH: ...</b></br>
 
 ### Abuelo
 <img src="./img/9.png"/>
@@ -67,6 +67,7 @@ Instalando del paquete tree
 Cuando termine la instalación del paquete solo queda usar el comando dentro de la carpeta del usuario para observar su funcionalidad:
 
 <img src="./img/19.png"/>
+
 Ahora se puede visualizar la estructura de carpetas desde la terminal de una forma mas consciente, `Carpetas: Azul, Archivos: Blanco`
 
 <img src="./img/20.png"/>
