@@ -19,10 +19,10 @@
 <img src="./img/8.png"/>
 
 ## 2. Ingresa a cada directorio y crear un archivo a través de consola, este archivo debe contener la siguiente informacion `(cd nombrecarpeta)` por donde queremos navegar :
-<b>Nombre:</b></br>
-<b>Apellido:</b></br>
-<b>Estatura:</b></br>
-<b>RH:</b></br>
+<b>Nombre:...</b></br>
+<b>Apellido:...</b></br>
+<b>Estatura:...</b></br>
+<b>RH:...</b></br>
 
 ### Abuelo
 <img src="./img/9.png"/>
