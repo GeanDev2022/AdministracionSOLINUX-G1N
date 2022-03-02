@@ -1,4 +1,4 @@
-# Taller I (Linux 1)
+# <center>Taller I (Linux 1)</center>
 
 <b>_Gean Carlo Cortes Mayorga 25-02-2022_</b>
 
