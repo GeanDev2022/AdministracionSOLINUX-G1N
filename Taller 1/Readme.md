@@ -1,8 +1,8 @@
 # Taller I (Linux 1)
 
-_Gean Carlo Cortes Mayorga 25-02-2022_
+<b>_Gean Carlo Cortes Mayorga 25-02-2022_</b>
 
-1. Dirigirse al `/home/user` del usuario creado y con los comandos anteriormente vistos en clase, crear la siguiente lista de carpetas.
+## 1. Dirigirse al `/home/user` del usuario creado y con los comandos anteriormente vistos en clase, crear la siguiente lista de carpetas.
 
 `Abuelo/Padre/Hijo` : Para realizar esto debemos usar el comando <b>mkdir nombrecarpeta</b>
 
@@ -20,13 +20,13 @@ Para crear las carpetas primero debemos ubicarnos en la carpeta del usuario a do
 <img src="./img/7.png"/>
 <img src="./img/8.png"/>
 
-2. Ingresa a cada directorio y crear un archivo a través de consola, este archivo debe contener la siguiente informacion `(cd nombrecarpeta)` por donde queremos navegar :
+## 2. Ingresa a cada directorio y crear un archivo a través de consola, este archivo debe contener la siguiente informacion `(cd nombrecarpeta)` por donde queremos navegar :
 <b>Nombre:</b>
 <b>Apellido:</b>
 <b>Estatura:</b>
 <b>RH:</b>
 
-## Abuelo
+### Abuelo
 <img src="./img/9.png"/>
 
 Creamos el archivo con el comando `vi nombrearchivo`, cuando entramos al archivo debemos teclear la letra <b>i</b> para insertar lo que deseemos.
@@ -57,7 +57,7 @@ Despues de ingresar la informacion presionaremos la <b>ESC</b> seguido de <b>:wq
 
 <img src="./img/16.png"/>
 
-3. Instalar el paquete `tree` y ejecutarlo en el directorio del usuario.
+## 3. Instalar el paquete `tree` y ejecutarlo en el directorio del usuario.
 
 Para instalar el paquete `tree` se hace uso del gestor de paquetes _yum_ usando el comando `yum install tree -y` el paquete tree muestra en consola la estructura en forma de arbol de las carpetas que tiene en conjunto con los archivos que estos directorios contienen.
 
