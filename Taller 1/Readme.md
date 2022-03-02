@@ -1,4 +1,4 @@
-# <center>Taller I (Linux 1)</center>
+# <p style="text-align: center;"> Taller I (Linux 1) </p>
 
 <b>_Gean Carlo Cortes Mayorga 25-02-2022_</b>
 
