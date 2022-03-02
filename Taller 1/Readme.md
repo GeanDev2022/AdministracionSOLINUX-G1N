@@ -11,8 +11,6 @@
 <img src="./img/3.png"/>
 <img src="./img/4.png"/>
 
-Para crear las carpetas primero debemos ubicarnos en la carpeta del usuario a donde se accede a traves del comando <b>cd</b> asi: `cd /home/[username]`.
-
 `Abuela/Madre/Hija` : Para realizar esto debemos usar el comando <b>mkdir nombrecarpeta</b>
 
 <img src="./img/5.png"/>
