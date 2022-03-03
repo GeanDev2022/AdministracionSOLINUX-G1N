@@ -1,6 +1,6 @@
-<h1 align="center">Apuntes Linux</h1>
+# <center style= color:red>Apuntes Linux</center>
 
-<h2 align="center">Comandos</h2>
+## <center>Comandos</center>
 
 <b>cd</b> (moverse)<br>
 <b>vi</b> (Crear archivo)<br>
@@ -16,7 +16,7 @@
 <b>cat [nombreArchivo] :</b>  se puede instalar nano, para leer less [nombreArchivo]<br>
 <b>man ls :</b> para cambiar el nombre de un archivo o carpeta  <br>
 <b>mv [nombreArchivo] [nuevoNombre]</b> Comando para mover un archivo o carpeta <br>
-<b>mv [nombreArchivo] [rutaDondeSeVaAMover]</b> Comando para copiar con todos los permisos cp -a [nombreArchivo] [nombreCopiaArchivo] <br>
+<b>mv [nombreArchivo] [rutaDondeSeVaAMover]</b>  <br>
 <b></b>  <br>
 <b></b>  <br>
 
