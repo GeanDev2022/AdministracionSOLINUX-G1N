@@ -1,4 +1,4 @@
-<center style= color:red>Apuntes Linux</center></h1>
+<p style= color:red>Apuntes Linux</p>
 
 ## <center>Comandos</center>
 
