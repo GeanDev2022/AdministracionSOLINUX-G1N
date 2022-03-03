@@ -1,6 +1,6 @@
-# <center style= color:red>Apuntes Linux</center>
+<h1 align="center">Apuntes Linux</h1>
 
-## <center>Comandos</center>
+<h2 align="center">Comandos</h2>
 
 <b>cd</b> (moverse)<br>
 <b>vi</b> (Crear archivo)<br>
