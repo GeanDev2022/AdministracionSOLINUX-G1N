@@ -20,6 +20,3 @@
 <b></b> <br>
 <b></b> <br>
 
-CONSULTAR
-
-QUE ES Y COMO INSTALAR UNA VPN
