@@ -61,7 +61,7 @@ Tenemos esta estructura
 
 Posteriormente vamos a pasar los archivos que estan contenidos en cada una de las carpetas de `Bisabuelo` a `Bisabuela`respectivamente.
 
-<!-- AQUI EMPIEZA UNA PARTE -->
+<!-- AQUI EMPIEZA LA PARTE DE BISABUELO A BISABUELA -->
 <h2 align="center"> Bisabuelo --> Bisabuela </h2>
 
 Abuela --> Abuelo
@@ -85,7 +85,7 @@ Empezamos buscando el archivo moviendonos con el comando `cd` y luego verificand
 <img src="./img/punto2/8.png"/>
 <img src="./img/punto2/9.png"/>
 
-<!-- AQUI EMPIEZA LA SEGUNDA PARTE -->
+<!-- AQUI EMPIEZA LA PARTE DE BISABUELA A BISABUELO -->
 <h2 align="center"> Bisabuela --> Bisabuelo </h2>
 
 Abuelo --> Abuela
@@ -108,3 +108,7 @@ Empezamos buscando el archivo moviendonos con el comando `cd` y luego verificand
 
 <img src="./img/punto2/14.png"/>
 <img src="./img/punto2/15.png"/>
+
+Finalmente podemos corroborar mediante el uso del comando `tree` el proceso que se acabo de realizar
+
+<img src="./img/punto2/tree2.png"/>
