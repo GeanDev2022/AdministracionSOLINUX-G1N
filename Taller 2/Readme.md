@@ -112,3 +112,24 @@ Empezamos buscando el archivo moviendonos con el comando `cd` y luego verificand
 Finalmente podemos corroborar mediante el uso del comando `tree` el proceso que se acabo de realizar
 
 <img src="./img/punto2/tree2.png"/>
+
+El proximo proceso que se realizara sera el de crear dos carpetas `Nieto/Bisnieto` y `Nieta/Bisnieta` contenidas en cada carpeta de `Bisabuelo` y `Bisabuela` respectivamente
+
+<img src="./img/punto2/16.png"/>
+
+Empezamos creando la carpeta Nieto con el comando `mkdir`
+
+<img src="./img/punto2/17.png"/>
+
+Creamos el archivo con la informacion del Nieto con el comando `vi` y luego con `i` para editar, luego `ESC` : wq para guardar
+
+<img src="./img/punto2/18.png"/>
+
+Luego creando la carpeta Bisnieto con el comando `mkdir`
+
+<img src="./img/punto2/19.png"/>
+
+Creamos el archivo con la informacion del Bisnieto con el comando `vi` y luego con `i` para editar, luego `ESC` : wq para guardar
+
+<img src="./img/punto2/20.png"/>
+
