@@ -46,9 +46,28 @@ Y finalmente podremos ingresar a la interfaz y sistema con los privilegios
 
 <h3 align="center">2. Practicar el movimiento de archivos y directorios. Ademas renombrar archivos</h3>
 
+Damos inicio creamos dos carpetas con los nombres de `Bisabuelo` y `Bisabuela`
 
+<img src="./img/punto2/1.png"/>
 
+Luego vamos a mover las carpetas `Abuelo`  a la carpeta `Bisabuela` y `Abuela` a la carpeta `Bisabuelo` 
 
+<img src="./img/punto2/2.png"/>
+<img src="./img/punto2/3.png"/>
 
+Tenemos esta estructura
+
+<img src="./img/punto2/tree1.png"/>
+
+Posteriormente vamos a pasar los archivos que estan contenidos en cada una de las carpetas de `Bisabuelo` a `Bisabuela`respectivamente.
+
+## `Bisabuelo` -> `Bisabuela`
+
+Abuela -> Abuelo
+
+<img src="./img/punto2/4.png"/>
+<img src="./img/punto2/5.png"/>
+
+Papa -> Mama
 
 
