@@ -133,3 +133,19 @@ Creamos el archivo con la informacion del Bisnieto con el comando `vi` y luego c
 
 <img src="./img/punto2/20.png"/>
 
+y Finalizamos el taller creando la carpeta Nieta con el comando `mkdir`
+
+<img src="./img/punto2/21.png"/>
+
+Creamos el archivo con la informacion del Nieta con el comando `vi` y luego con `i` para editar, luego `ESC` : wq para guardar
+
+<img src="./img/punto2/22.png"/>
+
+Luego creando la carpeta Bisnieta con el comando `mkdir`
+
+<img src="./img/punto2/23.png"/>
+
+Creamos el archivo con la informacion del Bisnieta con el comando `vi` y luego con `i` para editar, luego `ESC` : wq para guardar
+
+<img src="./img/punto2/24.png"/>
+
