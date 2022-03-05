@@ -1,7 +1,7 @@
 <h1 align="center">Taller II (Linux 1)</h1>
-<b>_Gean Carlo Cortes Mayorga 25-02-2022_</b>
+_Gean Carlo Cortes Mayorga 25-02-2022_
 
-<h3 align="center"> 1. Recuperar la contraseña del usuario Root.</h3>
+<h2 align="center"> 1. Recuperar la contraseña del usuario Root.</h2>
 
 Inicialmente, cuando se inicia el sistema, presionamos la tecla `ESC` donde ingresaremos al sistema interno.
 
@@ -44,7 +44,7 @@ Y finalmente podremos ingresar a la interfaz y sistema con los privilegios
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center">2. Practicar el movimiento de archivos y directorios. Ademas renombrar archivos</h3>
+<h2 align="center">2. Practicar el movimiento de archivos y directorios. Ademas renombrar archivos</h2>
 
 Damos inicio creamos dos carpetas con los nombres de `Bisabuelo` y `Bisabuela`
 
@@ -68,6 +68,12 @@ Abuela -> Abuelo
 <img src="./img/punto2/4.png"/>
 <img src="./img/punto2/5.png"/>
 
-Papa -> Mama
+Mama -> Papa
 
+<img src="./img/punto2/6.png"/>
+<img src="./img/punto2/7.png"/>
 
+Hija -> Hijo
+
+<img src="./img/punto2/8.png"/>
+<img src="./img/punto2/9.png"/>
