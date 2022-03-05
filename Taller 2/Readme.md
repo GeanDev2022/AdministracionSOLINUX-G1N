@@ -92,19 +92,19 @@ Abuelo --> Abuela
 
 Empezamos buscando el archivo moviendonos con el comando `cd` y luego verificando que el archivo se escuentre con `ls`, posteriormente hacemos uso del comando `vm` para mover el archivo: 
 
-<img src="./img/punto2/4.png"/>
-<img src="./img/punto2/5.png"/>
+<img src="./img/punto2/10.png"/>
+<img src="./img/punto2/11.png"/>
 
 Papa --> Mama
 
 Empezamos buscando el archivo moviendonos con el comando `cd` y luego verificando que el archivo se escuentre con `ls`, posteriormente hacemos uso del comando `vm` para mover el archivo: 
 
-<img src="./img/punto2/6.png"/>
-<img src="./img/punto2/7.png"/>
+<img src="./img/punto2/12.png"/>
+<img src="./img/punto2/13.png"/>
 
 Hijo --> Hija
 
 Empezamos buscando el archivo moviendonos con el comando `cd` y luego verificando que el archivo se escuentre con `ls`, posteriormente hacemos uso del comando `vm` para mover el archivo: 
 
-<img src="./img/punto2/8.png"/>
-<img src="./img/punto2/9.png"/>
+<img src="./img/punto2/14.png"/>
+<img src="./img/punto2/15.png"/>
