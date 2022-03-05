@@ -61,19 +61,27 @@ Tenemos esta estructura
 
 Posteriormente vamos a pasar los archivos que estan contenidos en cada una de las carpetas de `Bisabuelo` a `Bisabuela`respectivamente.
 
-## `Bisabuelo` -> `Bisabuela`
+<h2 align="center"> `Bisabuelo` --> `Bisabuela` </h2>
 
-Abuela -> Abuelo
+Abuela --> Abuelo
+
+Empezamos buscando el archivo moviendonos con el comando `cd` y luego verificando que el archivo se escuentre con `ls`, posteriormente hacemos uso del comando `vm` para mover el archivo: 
 
 <img src="./img/punto2/4.png"/>
 <img src="./img/punto2/5.png"/>
 
-Mama -> Papa
+Mama --> Papa
+
+Empezamos buscando el archivo moviendonos con el comando `cd` y luego verificando que el archivo se escuentre con `ls`, posteriormente hacemos uso del comando `vm` para mover el archivo: 
 
 <img src="./img/punto2/6.png"/>
 <img src="./img/punto2/7.png"/>
 
-Hija -> Hijo
+Hija --> Hijo
+
+Empezamos buscando el archivo moviendonos con el comando `cd` y luego verificando que el archivo se escuentre con `ls`, posteriormente hacemos uso del comando `vm` para mover el archivo: 
 
 <img src="./img/punto2/8.png"/>
 <img src="./img/punto2/9.png"/>
+
+<h2 align="center"> `Bisabuela` --> `Bisabuelo` </h2>
