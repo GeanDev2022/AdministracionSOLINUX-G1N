@@ -61,7 +61,7 @@ Tenemos esta estructura
 
 Posteriormente vamos a pasar los archivos que estan contenidos en cada una de las carpetas de `Bisabuelo` a `Bisabuela`respectivamente.
 
-<h2 align="center"> `Bisabuelo` --> `Bisabuela` </h2>
+<h2 align="center"> Bisabuelo --> Bisabuela </h2>
 
 Abuela --> Abuelo
 
@@ -84,4 +84,4 @@ Empezamos buscando el archivo moviendonos con el comando `cd` y luego verificand
 <img src="./img/punto2/8.png"/>
 <img src="./img/punto2/9.png"/>
 
-<h2 align="center"> `Bisabuela` --> `Bisabuelo` </h2>
+<h2 align="center"> Bisabuela --> Bisabuelo </h2>
