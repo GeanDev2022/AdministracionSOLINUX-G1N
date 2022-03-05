@@ -1,4 +1,4 @@
-# <center style=color:red>Taller II (Linux 1)</center>
+<h1 align="center">Taller II (Linux 1)</h1>
 <b>_Gean Carlo Cortes Mayorga 25-02-2022_</b>
 
 <h3 align="center"> 1. Recuperar la contraseña del usuario Root.</h3>
@@ -42,7 +42,7 @@ Y finalmente podremos ingresar a la interfaz y sistema con los privilegios
 
 <img src="./img/punto1/12.png"/>
 
-//-------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center">2. Practicar el movimiento de archivos y directorios. Ademas renombrar archivos</h3>
 
