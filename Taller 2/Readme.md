@@ -115,7 +115,7 @@ Finalmente podemos corroborar mediante el uso del comando `tree` el proceso que 
 
 El proximo proceso que se realizara sera el de crear dos carpetas `Nieto/Bisnieto` y `Nieta/Bisnieta` contenidas en cada carpeta de `Bisabuelo` y `Bisabuela` respectivamente
 
-<img src="./img/punto2/16.png"/>
+<img src="./img/punto2/16.jpeg"/>
 
 Empezamos creando la carpeta Nieto con el comando `mkdir`
 
