@@ -2,6 +2,9 @@
 
 <h2 align="center">Comandos</h2>
 
+<b>cat </b> (leer y crear archivos)<br><br>
+<b>mkdir</b> (crea fichero)<br><br>
+<b>rmdir</b> (eliminar fichero) <br><br>
 <b>cd</b> (moverse)<br><br>
 <b>vi</b> (Crear archivo)<br><br>
 <b>rm</b> (remover)<br><br>
@@ -25,11 +28,11 @@
 <b>tar -xvf [nombrearchivo] "file1"  "file2"</b> (Descomprimir multiples archivos)<br><br>
 <b>tar -cf [nombrearchivo] bar foo</b> (Comprimir multiples archivos)<br><br>
 <b>df -Th</b> (Permite saber el tamaño de los discos y particiones)<br><br>
-
 <b>du -sh</b> (Permite saber el tamaño de los archivos) </br><br>
-<b></b> </br><br>
-<b></b> </br><br>
-<b></b> </br><br>
+<b>zip [nombrenuevo].zip nombreexiste</b> (Sirve para comprimir archivos y directorios) </br><br>
+<b>unzip [nombreexiste].zip</b> (Sirve descomprimir archivos y directorios)</br><br>
+<h1>TAREA</h1>
+<b>COMO COMPRIMIR OTROS TIPOS DE ARCHIVOS</b> </br><br>
 <b></b> </br><br>
 <b></b> </br><br>
 <b></b> </br><br>
