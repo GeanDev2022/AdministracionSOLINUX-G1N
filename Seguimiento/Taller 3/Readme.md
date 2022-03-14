@@ -80,8 +80,10 @@ Finalmente miramos en cada ruta que si se descomprimieron los archivos
 
 <h2 align="center"> 5. Comprimir los directorios usando la herramienta o paquete (zip, unzip)</h2>
 
-<img src="./img/Screenshot_.png"/>
-<img src="./img/Screenshot_.png"/>
+Inicialmente debemos haber installado el paquete de zip con el comando `sudo apt install zip`
+
+<img src="./img/Screenshot_29.png"/>
+<img src="./img/Screenshot_30.png"/>
 
 
 
