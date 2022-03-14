@@ -50,13 +50,32 @@ Ejemplo con Bisabuelo.tar ../../tmp/ (estando en /home/geandev)
 <img src="./img/Screenshot_13.png"/>
 <img src="./img/Screenshot_14.png"/>
 
+Ahora con los otros
+<img src="./img/Screenshot_17.png"/>
+<img src="./img/Screenshot_18.png"/>
+<img src="./img/Screenshot_19.png"/>
+<img src="./img/Screenshot_20.png"/>
+<img src="./img/Screenshot_21.png"/>
+
 
 `/root`
 Ejemplo con Bisabuelo.tar ../../root/ (estando en /home/geandev)
 <img src="./img/Screenshot_15.png"/>
 <img src="./img/Screenshot_16.png"/>
 
+Ahora con los otros
+<img src="./img/Screenshot_22.png"/>
+<img src="./img/Screenshot_23.png"/>
+<img src="./img/Screenshot_24.png"/>
+<img src="./img/Screenshot_25.png"/>
+<img src="./img/Screenshot_26.png"/>
 
+Finalmente miramos en cada ruta que si se descomprimieron los archivos
+/tmp:
+<img src="./img/Screenshot_27.png"/>
+
+/root:
+<img src="./img/Screenshot_28.png"/>
 
 
 <h2 align="center"> 5. Comprimir los directorios usando la herramienta o paquete (zip, unzip)</h2>
