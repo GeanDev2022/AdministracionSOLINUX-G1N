@@ -89,6 +89,19 @@ Inicialmente debemos haber installado el paquete de zip con el comando `sudo apt
 
 <h2 align="center"> 6. Reto: Realizar un script en bash shell que haga la copia de seguridad del directorio /etc. A las 24h todos los dias.</h2>
 
+Inicialmente entramos al superusuario mediante sudo -s, luego:
 
-<img src="./img/Screenshot_.png"/>
-<img src="./img/Screenshot_.png"/>
+Con el siguiente script realizamos la copia de seguridad del directorio etc que guardaremos en la ruta /home/geandev/Backups
+
+Empezamos creando el script con el comando `nano backups.sh`
+
+<img src="./img/Screenshot_31.png"/>
+
+luego especificamos en el scrip mediante el comando `tar` la compilacion de la ruta /etc/ mediante un nombre predetermnado con fecha completa para que no se repitan al momento de regenrar esta.
+
+Luego ejecutamos `crontab -e` que sirve para ejecutar los script cada determinado tiempo que queremos.
+<img src="./img/Screenshot_33.png"/>
+
+y luego verificamos que si se cumpla la generacion del backup
+
+<img src="./img/Screenshot_34.png"/>
