@@ -31,8 +31,22 @@
 <b>du -sh</b> (Permite saber el tamaño de los archivos) </br><br>
 <b>zip [nombrenuevo].zip nombreexiste</b> (Sirve para comprimir archivos y directorios) </br><br>
 <b>unzip [nombreexiste].zip</b> (Sirve descomprimir archivos y directorios)</br><br>
-<h1>TAREA</h1>
-<b>COMO COMPRIMIR OTROS TIPOS DE ARCHIVOS</b> </br><br>
+<b>df -Th</b> (Mirar el almacenamiento de las particiones) </br><br>
+<b>uptime</b> (tiempo encendido)</br><br>
+<h2>PERMISOS DE USUARIO , GRUPO U OTROS</h2> </br><br>
+<b>
+User: r:read(4),
+w:write(2),
+x:execute(1)
+</b> </br><br>
+<b>chmod ### [archivo o directorio]</b>(Permiso de usuario,grupo u otro) </br><br>
+<b>chmod u+r,u+w,u+x</b> (Darle permiso de rwx al usuario) </br><br>
+<b>chmod u=rwx</b> </br><br>
+<img scr="./img/Screenshot_35.png"/>
+<img src="./img/4.png"/>
+<b></b> </br><br>
+<b></b> </br><br>
+<b></b> </br><br>
 <b></b> </br><br>
 <b></b> </br><br>
 <b></b> </br><br>
