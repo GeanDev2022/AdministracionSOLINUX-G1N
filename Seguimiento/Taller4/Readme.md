@@ -5,6 +5,7 @@ _Gean Carlo Cortes Mayorga 18-03-2022_
 
 Para crear los grupos haremos uso del comando `groupadd` seguido de la opcion -r (crear una cuenta del sistema) <br></br>
 <img src="./img/Screenshot_1.png"/>
+
 <img src="./img/Screenshot_2.png"/>
 
 <h2 align="center"> 2. Crear tres usuarios llamados: diana, claudia y laura</h2>
