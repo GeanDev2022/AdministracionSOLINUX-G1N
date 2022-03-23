@@ -64,14 +64,17 @@ Podemos ver que tiene el acceso restringido al ingreso de la carpeta profesores 
 diferentes usuarios.</h2>
 
 Empecemos con Diana
+
 <img src="./img/Screenshot_17.png"/>
 <img src="./img/Screenshot_18.png"/>
 
 Luego con claudia
+
 <img src="./img/Screenshot_19.png"/>
 <img src="./img/Screenshot_20.png"/>
 
 Luego con Laura
+
 <img src="./img/Screenshot_21.png"/>
 <img src="./img/Screenshot_22.png"/>
 
@@ -108,9 +111,8 @@ y ahora vamos a cambiar el de laura a claudia y el de claudia a laura
 el contenido del directorio de los estudiante en un archivo estudiantes.zip</h2>
 
 profesores:
+
 <img src="./img/Screenshot_29.png"/>
-
-
 
 estudiantes:
 
