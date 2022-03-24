@@ -44,6 +44,40 @@ x:execute(1)
 <b>chmod u=rwx</b> </br><br>
 <img scr="./img/Screenshot_35.png"/>
 <img src="./img/4.png"/>
+<h2><strong>Permisos</strong></h2>
+
+Lectura: r = 4</br><br>
+Escritura: w = 2</br><br>
+Ejecución: x = 1</br><br>
+
+Grupos</br><br>
+Pueden tener diferentes permisos de acuerdo a cada grupo</br><br>
+User: rwx = 421 = 7</br><br>
+Group: rwx = 421 = 7</br><br>
+Others: rwx = 421 = 7</br><br>
+
+Para dar permisos a un directorio se toma el el total de cada grupo</br><br>
+Por ejemplo, para darle todos los permisos a un archivo seria = 777
+
+Para asignar el permiso se utiliza el comando <strong>chmod 777 [archivo o directorio]</strong>
+
+Comando para agregar usuario: <strong>adduser [nombreUsuario]</strong></br><br>
+Comando para añadir contraseña al usuario: <strong>passwd [nombreUsuario]</strong></br><br>
+Comando para quitarle los archivos a un usuario: <strong>chown [usuario][usuario] [archivos o directorios]</strong></br><br>
+Comando para crear un comando sin bash o sin acceso al sistema: useradd [nombreUsuario] -s /sbin/nologin </br><br>
+Comando para darle otra vez permisos al usuario: usermod [nombreUsuario] -s /bin/bash </br><br>
+Comando para eliminar un usuario: userdel [nombreUsuario] v
+Comando para crear grupo: groupadd [nombreGrupo] v
+Comando para ver los grupos: cat /etc/group </br><br>
+<b>top</b>  para mirar los procesos que esta corriendo en el servidor, es mas administrativo</br><br>
+<b>yum install httpd</b> Instalar servidor web</br><br>
+<b>systemctl start,restart,enable,stop</b> permite depeniendo la bandera ya sea la ejecucion, restart... </br><br>
+<b>ps</b> para ver los procesos que se estan ejecutando en nuestro sistema</br><br>
+<b>kill -9 </b> Esta bandera sirve para matar de forma adecuada un proceso `(PREGUNTA DE PARCIAL)`</br><br>
+<b></b> </br><br>
+<b></b> </br><br>
+<b></b> </br><br>
+<b></b> </br><br>
 <b></b> </br><br>
 <b></b> </br><br>
 <b></b> </br><br>
