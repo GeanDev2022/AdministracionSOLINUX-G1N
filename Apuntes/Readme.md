@@ -43,7 +43,6 @@ x:execute(1)
 <b>chmod u+r,u+w,u+x</b> (Darle permiso de rwx al usuario) </br><br>
 <b>chmod u=rwx</b> </br><br>
 <img scr="./img/Screenshot_35.png"/>
-<img src="./img/4.png"/>
 <h2><strong>Permisos</strong></h2>
 
 Lectura: r = 4</br><br>
@@ -74,6 +73,55 @@ Comando para ver los grupos: cat /etc/group </br><br>
 <b>systemctl start,restart,enable,stop</b> permite depeniendo la bandera ya sea la ejecucion, restart... </br><br>
 <b>ps</b> para ver los procesos que se estan ejecutando en nuestro sistema</br><br>
 <b>kill -9 </b> Esta bandera sirve para matar de forma adecuada un proceso `(PREGUNTA DE PARCIAL)`</br><br>
+<b>df -h</b> Espacio en las particiones </br><br>
+<b>xfs</b> Aumentar en caliente las particiones pero no disminuir</br><br>
+<b>ext4</b> Aumentar las partiiones y dismunuir, pero no en caliente</br><br>
+<b>du -sh [directorio]</b> </br><br>
+<b>htop</b> (ver procesos con grafica) </br><br>
+<b>jobs</b>control c: salir control z: mandar a segundo plano (Para ver procesos que se ejecutan en segundo plano)</br><br>
+<b>fg %#procesos</b> para regresar el procesos detenido de sleep tiempo</br><br>
+<b>nice -n [valor] [nombreproceso]</b> (valor menos es mas favorable y mas valor es menos favorable)</br><br>
+<b>-g</b> grupo primario</br><br>
+<b>-G</b> grupo secundario</br><br>
+<h1> Redirecciones y tuberias</h1>
+<b> `>` Cambia el contenido del archivo texto </b> </br><br>
+<b> `>>` Agrega y mantiene el contenido anterior  </b> </br><br>
+<b> 0: stdin  salida estandar
+    1: stdout salida buena
+    2: sterr  salida con error
+    find / -type f -user geandev > todo.txt 2>&1
+</b> </br><br>    
+<img src="./img/Screenshot_3.png"/></br><br>
+<b> ps fea | grep ssh</b> la salida del comando ps lo envia a grep y filtra todo lo que tenga ssh </br><br>
+<b>ps fea | grep ssh 2> ssh.txt</b> </br><br>
+<h1>Scripts</h1>
+<b>
+#!/bin/bash </br>
+- instruccion 1
+- instruccion 2
+- var param_1 = $1
+- var param_2 = $2
+- .....
+- var param_10 = ${10}
+</b> </br><br>
+<b>vi [nombrescripts].sh (parametros)</b> Realiza todas las instrucciones que nosotros le digamos</br><br>
+<b>chmod +x [nombrescript]</b> </br><br>
+<b>mkdir script, cd script, vi deploy_web.sh, i, 
+#!/bin/bash
+<img src="./img/Screenshot_4.png"/></br><br>
+luego ./deploy_web.sh Gean
+<img src="./img/Screenshot_5.png"/></br><br>
+
+</b> </br><br>
+<b>usr/share/nginx/html</b> </br><br>
+<b></b> </br><br>
+<b></b> </br><br>
+<b></b> </br><br>
+<b></b> </br><br>
+<b></b> </br><br>
+<b></b> </br><br>
+<b></b> </br><br>
+<b></b> </br><br>
 <b></b> </br><br>
 <b></b> </br><br>
 <b></b> </br><br>
