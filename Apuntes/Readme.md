@@ -114,16 +114,18 @@ luego ./deploy_web.sh Gean
 
 </b> </br><br>
 <b>usr/share/nginx/html</b> </br><br>
-<b></b> </br><br>
-<b></b> </br><br>
-<b></b> </br><br>
-<b></b> </br><br>
-<b></b> </br><br>
-<b></b> </br><br>
-<b></b> </br><br>
-<b></b> </br><br>
-<b></b> </br><br>
-<b></b> </br><br>
+
+<h1>20 ABRIL 2022</h1>
+<b>Firewall</b> (firewall-cmd --list-all)</br><br>
+<b>DNS</b> (cat /etc/resolve.conf)</br><br>
+<b>Gateway</b> (route -n) </br><br>
+<b>Selinux</b>  (cat /etc/selinux)</br><br>
+<b>route -n</b> sirve para verificar si un servidor tiene internet mediante el gateway (ping [ip])</br><br>
+<b>cat /etc/selinux/config   </b> </br><br>
+<b>getenforce</b> consultar el enforce actual </br><br>
+<b>setenforce 0/1</b>  0:permisivo 1:enforcing</br><br>
+<b>sudo firewall-cmd --zone=public ---permanent --add-port=3306/tcp</b> </br><br>
+<h1>TAREA</h1> hacer mediante una maquina virutal, el yum install mysql, e intentar conectarse a la otra maquina mediante ssh</br><br>
 <b></b> </br><br>
 <b></b> </br><br>
 <b></b> </br><br>
