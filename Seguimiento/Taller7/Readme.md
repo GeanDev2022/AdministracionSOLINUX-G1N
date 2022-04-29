@@ -49,6 +49,19 @@ Ahora nos faltaria abrir el puerto 3306 en el firewall con el comando `sudo fire
 <img src="./img/Screenshot_8.png"/>
 
 
+<h2 align="center"> 5. Luego vamos a hacer una peticion mediante ssh</h2>
+
+iniciamos el servicio si no se tiene arriba con el comando `systemctl start sshd` 
+
+<img src="./img/Screenshot_9.png"/>
+
+y mediante la otra maquina hacemos el `ssh [ip] -l [user]`
+
+<img src="./img/Screenshot_10.png"/>
+
+
+
+
 
 
 
