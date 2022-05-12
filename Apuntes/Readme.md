@@ -125,8 +125,39 @@ luego ./deploy_web.sh Gean
 <b>getenforce</b> consultar el enforce actual </br><br>
 <b>setenforce 0/1</b>  0:permisivo 1:enforcing</br><br>
 <b>sudo firewall-cmd --zone=public ---permanent --add-port=3306/tcp</b> </br><br>
-<h1>TAREA</h1> hacer mediante una maquina virutal, el yum install mysql, e intentar conectarse a la otra maquina mediante ssh</br><br>
-<b></b> </br><br>
+
+<h1>Crear particiones</h1></br><br>
+<b>lsblk
+sudo su</br>
+parted /dev/sda1 unit MB print free</br>
+fdisk /dev/sdb</br>
+n</br>
+p</br>
+1</br>
+enter</br>
++2GB</br>
+p</br>
+w</br>
+partprobe -s</br>
+lsblk</br>
+mkfs.ext3 /dev/sdb1</br>
+mkdir /mnt/disconuevo</br>
+mount /dev/sdb1 /mnt/disconuevo/</br>
+mount</br>
+df -Th</br>
+cd /mnt/disconuevo</br>
+ls</br>
+touch prueba</br>
+echo "escribir" > prueba</br>
+cat prueba</br>
+cd ..</br>
+vi /etc/fstab</br>
+i</br>
+/dev/sdb1 /mnt/disconuevo ext3 defaults 0 0</br>
+esc</br>
+:wq</br>
+systemctl reboot</br>
+</b> </br><br>
 <b></b> </br><br>
 <b></b> </br><br>
 <b></b> </br><br>
