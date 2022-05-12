@@ -13,5 +13,6 @@ Este Repositorio tiene como funcion principal el almacenamiento para los trabajo
     <li><a href="https://github.com/GeanDev2022/AdministracionSOLINUX-G1N/tree/master/Seguimiento/Taller6">Taller VI</a></li>
     <li><a href="https://github.com/GeanDev2022/AdministracionSOLINUX-G1N/tree/master/Seguimiento/Taller7">Taller VII</a></li>
     <li><a href="https://github.com/GeanDev2022/AdministracionSOLINUX-G1N/tree/master/Seguimiento/Taller8">Taller VIII</a></li>
+    <li><a href="https://github.com/GeanDev2022/AdministracionSOLINUX-G1N/tree/master/Seguimiento/Parcial3">Parcial 3</a></li>
 
 <ol>
