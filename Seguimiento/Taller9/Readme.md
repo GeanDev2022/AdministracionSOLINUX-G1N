@@ -5,8 +5,9 @@ _Gean Carlo Cortes Mayorga 22-04-2022_
 
 
 <h1 align="center"> Kickstart Your Spring Boot Application Development </h1>
-
-<img src="./img/descarga.png"/>
+</br>
+<h2 align="center"></p><img src="./img/descarga.png"/></h2>
+</br>
 
 Docker simplifica y acelera sus flujos de trabajo al permitirle innovar libremente con su elección de herramientas, pilas de aplicaciones y entornos de implementación para cada proyecto. Puede ejecutar su artefacto Spring Boot directamente dentro de los contenedores de Docker. Esto es útil cuando necesita crear rápidamente microservicios
 
